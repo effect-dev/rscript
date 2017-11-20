@@ -1,0 +1,25 @@
+{
+  "name": "rscript",
+  "version": "1.0.0",
+  "description": "rscript interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://effect-dev@github.com/effect-dev/rscript.git"
+  },
+  "keywords": [
+    "rscript"
+  ],
+  "author": "effect-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/effect-dev/rscript/issues"
+  },
+  "homepage": "https://github.com/effect-dev/rscript#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
